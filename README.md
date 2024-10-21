@@ -31,6 +31,11 @@ Invoke-EntraEnum -domain <domain>
 Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -users
 Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -groups
 Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -applications
+Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -devices
+Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -roles
+Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -signins
+Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -subscriptions
+Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -contacts
 ```
 ```powershell
 # Generate a device code for phishing
