@@ -50,5 +50,21 @@ Invoke-EntraEnum -DeviceCodeResults
 Invoke-Azure -domain <your-domain> -RefreshToken <your-refresh-token>
 ```
 
+## PoC
+
+![image](https://github.com/user-attachments/assets/c3e8c49b-82a2-415b-8c25-080d0e1f9a5e)
+
+![image](https://github.com/user-attachments/assets/e83db57a-daf5-482d-b2f3-90fa251882a5)
+
+![image](https://github.com/user-attachments/assets/84f9a18f-6fae-4230-b73a-3652c3494130)
+
+![image](https://github.com/user-attachments/assets/2297e744-2bba-4a8b-9d19-ed2b720aa15c)
+
+![image](https://github.com/user-attachments/assets/4affbd73-eb98-4b49-bcfc-1bcc6a896ad8)
+
+![image](https://github.com/user-attachments/assets/477b0eec-dba6-42a6-8a44-dab90991bb23)
+
+
+
 
 
