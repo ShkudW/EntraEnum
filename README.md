@@ -1,5 +1,13 @@
 # EntraEnum
-
+```powershell
+  _____       _             _____                       
+ | ____|_ __ | |_ _ __ __ _| ____|_ __  _   _ _ __ ___  
+ |  _| | '_ \| __| '__/ _` |  _| | '_ \| | | | '_ ` _ \ 
+ | |___| | | | |_| | | (_| | |___| | | | |_| | | | | | |
+ |_____|_| |_|\__|_|  \__,_|_____|_| |_|\__,_|_| |_| |_|
+======================================================= 
+Empowering your Azure AD reconnaissance with simplicity and precision.
+```
 **EntraEnum** is a PowerShell-based tool designed for enumerating various resources in Azure Active Directory (Entra ID) environments. It allows penetration testers and system administrators to interact with Azure AD APIs, retrieve details about users, groups, applications, and more, while also supporting advanced features like device code phishing and token refresh.
 
 ## Features
@@ -12,18 +20,6 @@
 
 - **Token Management:**
   - Obtain new access and refresh tokens using a refresh token.
-
-## Banner
-
-```powershell
-  _____       _             _____                       
- | ____|_ __ | |_ _ __ __ _| ____|_ __  _   _ _ __ ___  
- |  _| | '_ \| __| '__/ _` |  _| | '_ \| | | | '_ ` _ \ 
- | |___| | | | |_| | | (_| | |___| | | | |_| | | | | | |
- |_____|_| |_|\__|_|  \__,_|_____|_| |_|\__,_|_| |_| |_|
-======================================================= 
-Empowering your Azure AD reconnaissance with simplicity and precision.
-```
 
 ## Usage
 ```powershell
