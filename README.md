@@ -47,7 +47,7 @@ Invoke-EntraEnum -DeviceCodeResults
 ```
 ```powershell
 # Use a refresh token to obtain new access and refresh tokens
-Invoke-Azure -domain <your-domain> -RefreshToken <your-refresh-token>
+Invoke-EntraEnum -domain <domain> -RefreshToken <refresh-token>
 ```
 
 ## PoC
