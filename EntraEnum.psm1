@@ -66,7 +66,7 @@ function Invoke-EntraEnum {
         Write-Host ""
         Write-Host "Using Refresh token to receive new Access and Refresh Tokens:" -ForegroundColor Green
         Write-Host "------------------------------------------------------------" -ForegroundColor Green
-        Write-Host " -RefreshToken <token>             : Provide a Refresh Token to get a new Access Token" -ForegroundColor blue
+        Write-Host " -RefreshToken <token>             : Provide a Refresh Token to get a new Access Token, Need '-domain' flag" -ForegroundColor blue
     }
 
     
