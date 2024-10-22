@@ -50,6 +50,11 @@ Invoke-EntraEnum -DeviceCodeResults
 Invoke-EntraEnum -domain <domain> -RefreshToken <refresh-token>
 ```
 
+## Nice to know:
+If you see this error: 'API call failed: The remote server returned an error'.
+It means you sent too many requests, Wait 30 seconds and resend the request.
+
+
 ## PoC
 
 ![image](https://github.com/user-attachments/assets/05e3d9a8-d16f-4900-9db3-76b251bc94f0)
