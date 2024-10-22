@@ -25,7 +25,7 @@ function Invoke-EntraEnum {
     function Show-Banner {
         Write-Host "  _____       _             _____                       " -ForegroundColor Red
         Write-Host " | ____|_ __ | |_ _ __ __ _| ____|_ __  _   _ _ __ ___  " -ForegroundColor Red
-        Write-Host " |  _| | '_ \| __| '__/ _` |  _| | '_ \| | | | '_ \` _ \ " -ForegroundColor Yellow
+        Write-Host " |  _| | '_ \| __| '__/ _`  |  _| | '_ \| | | | '_ \` _ \ " -ForegroundColor Yellow
         Write-Host " | |___| | | | |_| | | (_| | |___| | | | |_| | | | | | |" -ForegroundColor Yellow
         Write-Host " |_____|_| |_|\__|_|  \__,_|_____|_| |_|\__,_|_| |_| |_|" -ForegroundColor Red
         Write-Host ""
