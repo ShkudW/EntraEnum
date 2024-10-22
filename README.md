@@ -28,14 +28,14 @@ Invoke-EntraEnum -domain <domain>
 ```
 ```powershell
 # Enumerating Users, Groups, Applications, etc..
-Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -users
-Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -groups
-Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -applications
-Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -devices
-Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -roles
-Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -signins
-Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -subscriptions
-Invoke-EntraEnum -domain <domain> -AccessToken <access-token> -contacts
+Invoke-EntraEnum -AccessToken <access-token> -users
+Invoke-EntraEnum -AccessToken <access-token> -groups
+Invoke-EntraEnum -AccessToken <access-token> -applications
+Invoke-EntraEnum -AccessToken <access-token> -devices
+Invoke-EntraEnum -AccessToken <access-token> -roles
+Invoke-EntraEnum -AccessToken <access-token> -signins
+Invoke-EntraEnum -AccessToken <access-token> -subscriptions
+Invoke-EntraEnum -AccessToken <access-token> -contacts
 ```
 ```powershell
 # Generate a device code for phishing
