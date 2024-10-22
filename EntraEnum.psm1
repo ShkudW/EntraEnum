@@ -45,7 +45,7 @@ function Invoke-EntraEnum {
         Write-Host ""
         Write-Host " -domain <domain>                  : Specify the domain to retrieve the Tenant ID" -ForegroundColor Cyan
         Write-Host ""
-        Write-Host " -AccessToken <token>              : Provide an Access Token for API calls, Only with '-domain' flag" -ForegroundColor Cyan
+        Write-Host " -AccessToken <token>              : Provide an Access Token for Microsoft Graph API calls" -ForegroundColor Cyan
         Write-Host ""
         Write-Host "Flags with -AccessToken flag:" -ForegroundColor Green
         Write-Host "------------------------------------------" -ForegroundColor Green
