@@ -49,15 +49,15 @@ function Invoke-EntraEnum {
         Write-Host ""
         Write-Host "Flags with -AccessToken flag:" -ForegroundColor Green
         Write-Host "------------------------------------------" -ForegroundColor Green
-        Write-Host "  -users                           : List all users in the domain, Only with '-AccessToken' flag" -ForegroundColor Magenta
-        Write-Host "  -groups                          : List all groups in the domain, Only with '-AccessToken' flags" -ForegroundColor Magenta
-        Write-Host "  -applications                    : List all applications in the domain, Only with '-AccessToken' flag" -ForegroundColor Magenta
-        Write-Host "  -servicePrincipals               : List all service principals in the domain, Only with '-AccessToken' flag" -ForegroundColor Magenta
-        Write-Host "  -devices                         : List all devices in the domain, Only with '-AccessToken' flag" -ForegroundColor Magenta
-        Write-Host "  -roles                           : List all roles in the domain, Only with '-AccessToken' flag" -ForegroundColor Magenta
-        Write-Host "  -signins                         : List recent sign-ins for the domain, Only with '-AccessToken' flag' flags" -ForegroundColor Magenta
-        Write-Host "  -subscriptions                   : List all subscriptions in the domain, Only with '-AccessToken' flag" -ForegroundColor Magenta
-        Write-Host "  -contacts                        : List all contacts in the domain, Only with '-AccessToken' flag" -ForegroundColor Magenta
+        Write-Host "  -users                           : List all users in the Tenant ID, Only with '-AccessToken' flag" -ForegroundColor Magenta
+        Write-Host "  -groups                          : List all groups in the Tenant ID, Only with '-AccessToken' flags" -ForegroundColor Magenta
+        Write-Host "  -applications                    : List all applications in the Tenant ID, Only with '-AccessToken' flag" -ForegroundColor Magenta
+        Write-Host "  -servicePrincipals               : List all service principals in the Tenant ID, Only with '-AccessToken' flag" -ForegroundColor Magenta
+        Write-Host "  -devices                         : List all devices in the Tenant ID, Only with '-AccessToken' flag" -ForegroundColor Magenta
+        Write-Host "  -roles                           : List all roles in the Tenant ID, Only with '-AccessToken' flag" -ForegroundColor Magenta
+        Write-Host "  -signins                         : List recent sign-ins for the Tenant ID, Only with '-AccessToken' flag' flags" -ForegroundColor Magenta
+        Write-Host "  -subscriptions                   : List all subscriptions in the Tenant ID, Only with '-AccessToken' flag" -ForegroundColor Magenta
+        Write-Host "  -contacts                        : List all contacts in the Tenant ID, Only with '-AccessToken' flag" -ForegroundColor Magenta
         Write-Host ""
         Write-Host "Device Code Phishing Attack:" -ForegroundColor Green
         Write-Host "---------------------------"  -ForegroundColor Green
