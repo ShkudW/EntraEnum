@@ -57,7 +57,7 @@ It means you sent too many requests, Wait 30 seconds and resend the request.
 
 ## PoC
 
-![image](https://github.com/user-attachments/assets/05e3d9a8-d16f-4900-9db3-76b251bc94f0)
+![image](https://github.com/user-attachments/assets/1049dcc2-c456-4e36-8025-4b08ca77570a)
 
 ![image](https://github.com/user-attachments/assets/0edb98aa-3d7e-41a4-8f6b-91be27f25e41)
 
