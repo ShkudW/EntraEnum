@@ -183,7 +183,7 @@ function Invoke-EntraEnum {
             "client_id"    = "d3590ed6-52b3-4102-aeff-aad2292ab01c"
             "grant_type"   = "refresh_token"
             "scope"        = "openid"
-            "resource"     = "https://graph.windows.net/"
+            "resource"     = "https://graph.microsoft.com/"
             "refresh_token" = $RefreshToken
         }
 
